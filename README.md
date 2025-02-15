@@ -1,8 +1,10 @@
-# React + Vite
+# AGROGUARDIAN
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Purpose of the Project:
+The AgroGuardian platform is designed to address farmers' challenges by providing a comprehensive, user-friendly solution for informed decision-making, direct market access, and knowledge sharing. The platform offers personalized crop guidance, eco-friendly fertilizer recommendations, and a transparent marketplace to optimize farming practices, enhance productivity, and promote sustainable agriculture. By connecting farmers with buyers and providing access to essential resources, AgroGuardian empowers farmers to achieve better yields, improve profitability, and adopt environmentally responsible farming practices.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Key Features
+- Crop Selection Guidance: Farmers receive personalized crop recommendations based on location, soil type, and water resources.
+- Fertilizer and Pesticide Recommendations: Eco-friendly suggestions tailored to crop type and soil conditions.
+- Marketplace: A transparent platform for buying seeds, selling produce, and connecting with buyers.
+- Knowledge Hub: Access to guides, videos, and expert advice on sustainable farming practices.
