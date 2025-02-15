@@ -1,0 +1,18 @@
+.ql-toolbar.ql-snow,
+.ql-container {
+    border: 0 !important;
+}
+
+/* Quill Text placeholder color and editor color */
+.ql-editor {
+    color: var(--color-zink-500) !important;
+}
+
+.ql-editor::placeholder {
+    color: var(--color-zink-300) !important;
+}
+
+/* Quill Text placeholder color and editor color */
+.ql-editor.ql-blank::before {
+    color: color-mix(in oklab, var(--color-zinc-50) 40%, transparent) !important;
+}
