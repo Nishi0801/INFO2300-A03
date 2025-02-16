@@ -26,4 +26,7 @@ The AgroGuardian platform is designed to address farmers' challenges by providin
    It is easy to understand and is widely used by software companies.
 
    ##Issue
-   I have created an issue for the enhancement visit (https://github.com/Nishi0801/INFO2300-A03/issues/1 ) in Issues tab to     see the issue.
+   I have created an issue for the enhancement visit (https://github.com/Nishi0801/INFO2300-A03/issues/1 ) in the Issues tab    to see the issue.
+
+   ##Adding Wiki Article
+   I have created a Wiki article about what source control type I plan, visit (https://github.com/Nishi0801/INFO2300-A03/wiki/Source-Control-Type) to check.
