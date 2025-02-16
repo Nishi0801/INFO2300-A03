@@ -14,6 +14,7 @@ The AgroGuardian platform is designed to address farmers' challenges by providin
   - [Node.js]
   - [npm] which usually comes with Node.js
   - A code editor: Visual Studio Code
+    
     ##Installation
 1. Clone this repository: `git clone https://github.com/Nish0801/INFO2300-A03.git`
 2. Install dependencies: `npm install`
@@ -23,3 +24,6 @@ The AgroGuardian platform is designed to address farmers' challenges by providin
    I am using the MIT License because it allows me to  use, modify, and distribute the code with minimal restrictions.
    It encourages collaboration and open-source development.
    It is easy to understand and is widely used by software companies.
+
+   ##Issue
+   I have created an issue for the enhancement visit (https://github.com/Nishi0801/INFO2300-A03/issues/1 ) in Issues tab to     see the issue.
