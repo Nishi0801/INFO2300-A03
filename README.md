@@ -8,3 +8,18 @@ The AgroGuardian platform is designed to address farmers' challenges by providin
 - Fertilizer and Pesticide Recommendations: Eco-friendly suggestions tailored to crop type and soil conditions.
 - Marketplace: A transparent platform for buying seeds, selling produce, and connecting with buyers.
 - Knowledge Hub: Access to guides, videos, and expert advice on sustainable farming practices.
+
+  ## How to Build and Run the Project
+    ##Prerequisites
+  - [Node.js]
+  - [npm] which usually comes with Node.js
+  - A code editor: Visual Studio Code
+    ##Installation
+1. Clone this repository: `git clone https://github.com/Nish0801/INFO2300-A03.git`
+2. Install dependencies: `npm install`
+3. Run the project: `npm start`
+
+   ## License
+   I am using the MIT License because it allows me to  use, modify, and distribute the code with minimal restrictions.
+   It encourages collaboration and open-source development.
+   It is easy to understand and is widely used by software companies.
