@@ -26,7 +26,26 @@ The AgroGuardian platform is designed to address farmers' challenges by providin
    It is easy to understand and is widely used by software companies.
 
    ##Issue
-   I have created an issue for the enhancement visit (https://github.com/Nishi0801/INFO2300-A03/issues/1 ) in the Issues tab    to see the issue.
+   I have created an issue for the enhancement visit (https://github.com/Nishi0801/INFO2300-A03/issues/1 ) in the Issues tab    to see the problem.
 
    ##Adding Wiki Article
    I have created a Wiki article about what source control type I plan, visit (https://github.com/Nishi0801/INFO2300-A03/wiki/Source-Control-Type) to check.
+
+   ## Intergation Testing Components:
+
+The following components will be in scope for integration testing:
+
+1. **Database (PostgreSQL)**:  
+   It is the core component for storing and managing user data, login credentials, and knowledge hub content.
+
+2. **Authentication Service**:  
+   It handles user login, registration, and session management, ensuring secure access to the platform.
+
+3. **Knowledge Hub Module**:  
+   It provides access to guides, and articles on sustainable farming practices, displayed in a user-friendly card format.
+
+4. **Frontend UI**:  
+   It displays the login, registration, and knowledge hub pages, ensuring a seamless and visually appealing user experience.
+
+5. **Backend API**:  
+   It connects the front end with the database and handles requests for user authentication and knowledge hub content.
